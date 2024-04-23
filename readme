@@ -33,3 +33,14 @@ The source code is organized for ease of maintenance and scalability, follows be
 
 Bibliography:-
 The project references were formatted according to the Chicago style, citing recent studies and articles in information retrieval, machine learning, and web crawling technologies. Notable references include works from journals and conferences like ACM/IEEE on Information Retrieval and the application of machine learning techniques in text processing.
+
+to run this project :-
+
+1)download all files to vscode 
+2)configure the vs code according to files.
+3)then start run in terminal. 
+4)scrapy crawl my_spider-command 
+5) scrapy crawl my_spider -o output.json
+6)python indexer.py
+7)run flask 8)this will show the inter face of project
+8)output.json is compressed so when using that unzip it.
